@@ -1,0 +1,5 @@
+.tools/
+output/
+packer_cache/
+*.log
+*.pkrvars.hcl
